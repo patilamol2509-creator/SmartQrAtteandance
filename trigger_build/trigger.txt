@@ -1,0 +1,5 @@
+Triggering GitHub Actions build for Android APK.
+
+This file was created to trigger the `Android APK Build` workflow by making a commit to `main`.
+
+Timestamp: 2026-10-19T00:00:00Z
